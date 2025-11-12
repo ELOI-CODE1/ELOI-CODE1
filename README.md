@@ -40,9 +40,9 @@ From creating web interfaces to developing mobile applications, I enjoy turning 
 ---
 
 ## 🧠 Currently Learning  
-- Advanced Python and algorithms 
 - UI/UX design and clean web architecture  
-- Data analytics and visualization  
+- Data analytics and visualization
+- Mobile application development
 
 ---
 
@@ -55,7 +55,7 @@ From creating web interfaces to developing mobile applications, I enjoy turning 
 
 ## 🧩 About Me  
 - 📚 Student of Software Engineering  
-- 💡 Curious about AI, Software development and big data analytics 
+- 💡 Curious about AI, Software development and mobile application development
 - ☕ Founder of a small online business — combining tech and entrepreneurship  
 
 ---
