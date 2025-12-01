@@ -43,6 +43,7 @@ From creating web interfaces to developing mobile applications, I enjoy turning 
 - UI/UX design and clean web architecture  
 - Data analytics and visualization
 - Mobile application development
+- Java Programming Language
 
 ---
 
