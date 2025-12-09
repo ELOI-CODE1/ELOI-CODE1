@@ -16,8 +16,6 @@ From creating web interfaces to developing mobile applications, I enjoy turning 
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="60" height="60"/>
 
 </p>
@@ -58,7 +56,7 @@ From creating web interfaces to developing mobile applications, I enjoy turning 
 ---
 
 ## 📬 Get in Touch  
-- ✉️ Email: **izabayoeloi2@example.com**  
+- ✉️ Email: **izabayoeloi2@gmail.com**  
 - 💼 LinkedIn: [IZABAYO Eloi](https://www.linkedin.com/in/eloi-izabayo/)  
 - 🌐 Portfolio: *Coming Soon*  
 
