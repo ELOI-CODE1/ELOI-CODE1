@@ -34,14 +34,11 @@ From creating web interfaces to developing mobile applications, I enjoy turning 
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" />
 </p>
 
 ---
 
 ## 🧠 Currently Learning  
-- UI/UX design and clean web architecture  
-- Data analytics and visualization
 - Mobile application development
 - Java Programming Language
 
@@ -56,8 +53,7 @@ From creating web interfaces to developing mobile applications, I enjoy turning 
 
 ## 🧩 About Me  
 - 📚 Student of Software Engineering  
-- 💡 Curious about AI, Software development and mobile application development
-- ☕ Founder of a small online business — combining tech and entrepreneurship  
+- 💡 Curious about AI, Software development and mobile application developmen 
 
 ---
 
