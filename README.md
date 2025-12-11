@@ -39,6 +39,7 @@ From creating web interfaces to developing mobile applications, I enjoy turning 
 ## 🧠 Currently Learning  
 - Mobile application development
 - Java Programming Language
+- Python Programming
 
 ---
 
