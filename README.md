@@ -59,7 +59,7 @@ From creating web interfaces to developing mobile applications, I enjoy turning 
 ## 📬 Get in Touch  
 - ✉️ Email: **izabayoeloi2@gmail.com**  
 - 💼 LinkedIn: [IZABAYO Eloi](https://www.linkedin.com/in/eloi-izabayo/)  
-- 🌐 [PORTFOLIO]([https://eloi-dev.vercel.app/])
+- 🌐 [PORTFOLIO](https://eloi-dev.vercel.app/)
 
 ---
 
