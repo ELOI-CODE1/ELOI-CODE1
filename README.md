@@ -20,11 +20,11 @@ From creating web interfaces to developing mobile applications, I enjoy turning 
 
 </p>
 
-### ⚙️ Frameworks & Libraries  
+<!--### ⚙️ Frameworks & Libraries
 <p align="left">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-</p>
+</p> -->
 
 ### 🗄️ Databases & Tools  
 <p align="left">
