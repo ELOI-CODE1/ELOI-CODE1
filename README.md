@@ -60,8 +60,7 @@ Responsive HTML & CSS project focused on clean UI and user experience.
 ## GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ELOI-CODE1&show_icons=true&theme=default" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ELOI-CODE1&layout=compact&theme=default" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ELOI-CODE1&show_icons=true" />
 </p>
 
 ---
