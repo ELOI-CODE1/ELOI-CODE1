@@ -1,69 +1,103 @@
-<!-- 🖼️ Profile Banner -->
-![Eloi Banner](https://capsule-render.vercel.app/api?type=waving&color=0:4B79A1,100:283E51&height=200&section=header&text=Izabayo%20Eloi%20👨‍💻&fontSize=40&fontColor=ffffff&animation=fadeIn)
+# Hi, I'm Izabayo Eloi
 
-# I'm Izabayo Eloi  
-
-I'm a passionate **Software Engineering student** who loves designing, building, and improving digital experiences.  
-From creating web interfaces to developing mobile applications, I enjoy turning ideas into real, working solutions.
-
----
-
-## 🧰 Skills & Tools  
-
-### 💻 Programming Languages  
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="60" height="60"/>
-
-</p>
-
-<!--### ⚙️ Frameworks & Libraries
-<p align="left">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-</p> -->
-
-### 🗄️ Databases & Tools  
-<p align="left">
-  <img src="https://img.shields.io/badge/Oracle%20SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Software+Engineering+Student;Web+Developer;Mobile+Developer;Always+Learning+and+Building" />
 </p>
 
 ---
 
-## 🧠 Currently Learning  
-- Mobile application development
-- Java Programming Language
-- Python Programming
+## About Me
+
+I am a Software Engineering student passionate about building digital solutions that solve real-world problems.
+
+I enjoy turning ideas into working software through web development, mobile apps, and database systems.
+
+- Software Engineering Student  
+- Web & Mobile Development Enthusiast  
+- Interested in Artificial Intelligence  
+- Problem Solver  
+- Continuous Learner  
 
 ---
 
-## 🚀 Featured Projects  
-- 🎨 [**My Web Design Midterm**](https://github.com/myLessonss/my-web-design-) — HTML/CSS project showcasing responsive design.  
-- 🍽️ **Hotel & Restaurant Management System** — full-stack internal system for hospitality management.
-- 🧾 **Bar & Restaurant PL/SQL Database** — Oracle-based backend system for business operations.  
+## Skills & Technologies
+
+### Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,javascript,html,css,sql" />
+</p>
+
+### Tools & Frameworks
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,git,github,vscode,mongodb,mysql" />
+</p>
 
 ---
 
-## 🧩 About Me  
-- 📚 Student of Software Engineering  
-- 💡 Curious about AI, Software development and mobile application developmen 
+## Currently Learning
+
+- Mobile Application Development  
+- Java Programming  
+- Python Development  
+- Software Architecture  
+- Modern Web Development  
 
 ---
 
-## 📬 Get in Touch  
-- ✉️ Email: **izabayoeloi2@gmail.com**  
-- 💼 LinkedIn: [IZABAYO Eloi](https://www.linkedin.com/in/eloi-izabayo/)  
-- 🌐 [PORTFOLIO](https://eloi-dev.vercel.app/)
+## Featured Projects
+
+### Hotel & Restaurant Management System
+Full-stack system for managing reservations, inventory, and customer operations in hospitality businesses.
+
+### Bar & Restaurant Database System
+Oracle PL/SQL project focused on database design and business operations.
+
+### Web Design Project
+Responsive HTML & CSS project focused on clean UI and user experience.
 
 ---
 
+## GitHub Stats
 
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ELOI-CODE1&show_icons=true&theme=default" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ELOI-CODE1&layout=compact&theme=default" />
+</p>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:283E51,100:4B79A1&height=120&section=footer)
+---
 
+## GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ELOI-CODE1" />
+</p>
+
+---
+
+## Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ELOI-CODE1&theme=github-compact" />
+</p>
+
+---
+
+## Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ELOI-CODE1&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
+---
+
+## Connect With Me
+
+- Email: **izabayoeloi2@gmail.com**  
+- LinkedIn: **https://www.linkedin.com/in/eloi-izabayo/**  
+- Portfolio: **https://eloi-dev.vercel.app/**  
+
+---
+
+<p align="center">
+Building software, learning continuously, and improving every day.
+</p>
