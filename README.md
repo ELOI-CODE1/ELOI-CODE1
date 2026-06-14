@@ -68,9 +68,10 @@ Responsive HTML & CSS project focused on clean UI and user experience.
 ## GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ELOI-CODE1" />
+  <a href="https://github.com/ELOI-CODE1">
+    <img src="https://streak-stats.demolab.com?user=ELOI-CODE1&theme=github-dark-blue" />
+  </a>
 </p>
-
 ---
 
 ## Contribution Activity
