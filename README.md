@@ -57,19 +57,6 @@ Responsive HTML & CSS project focused on clean UI and user experience.
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ELOI-CODE1&show_icons=true" />
-</p>
-
----
-
-## GitHub Streak
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=ELOI-CODE1&theme=dark&hide_border=true)](https://git.io/streak-stats)
----
-
 ## Contribution Activity
 
 <p align="center">
